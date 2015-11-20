@@ -57,6 +57,8 @@
 * [Chartist](https://gionkunz.github.io/chartist-js/)
 > You may think that this is just yet an other charting library. But Chartist.js is the product of a community that was disappointed about the abilities provided by other charting libraries. Of course there are hundreds of other great charting libraries but after using them there were always tweaks you would have wished for that were not included.
 
+* [HighCharts](https://github.com/highslide-software/highcharts.com)
+>Highcharts JS is a JavaScript charting library based on SVG and VML rendering.
 
 ##Spin:
 * [Spin](http://fgnass.github.io/spin.js/)
